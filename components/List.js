@@ -26,7 +26,7 @@ const List = ({ allPosts }) => {
               </p>
             </h2>
             <p className="ml-6 pb-4 text-black leading-normal text-base max-w-xl m-0">
-              {`${truncateSummary(post.attributes.body)}` + "... (more)"}{" "}
+              {`${truncateSummary(post.attributes.body)}` + "..."}{" "}
             </p>
           </div>
         ))}
