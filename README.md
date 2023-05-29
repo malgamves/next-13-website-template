@@ -14,7 +14,7 @@ This is a stand alone Next 13 template with pre-made components that use [Tailwi
 - PageContainer
 - Pagination
 - PostsContainer
-- PostsMain✨
+- PostsMain
 - RightGrid
 - Title
 
