@@ -1,4 +1,4 @@
-# Next 13 Template 
+# Next 13 Tailwind template 
 
 This is a stand alone Next 13 template with pre-made components that use [Tailwind CSS](tailwindcss.com/). I use this template in my updated [egghead course](). The template comes with the following components:
 
